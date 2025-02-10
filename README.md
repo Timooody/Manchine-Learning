@@ -33,5 +33,5 @@ Repository ini berisi implementasi algoritma Machine Learning dan studi kasus ya
    - Skrip untuk mendemonstrasikan deployment model, menggunakan Flask atau FastAPI untuk membangun REST API.
 
 ---
-
+Simple youthhh @@
 ## Struktur Direktori
